@@ -1,1 +1,1 @@
-sfbsbd
+print("hello")
